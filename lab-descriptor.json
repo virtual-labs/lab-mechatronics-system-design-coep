@@ -1,8 +1,8 @@
 {
     "broadArea": {
         "name": "Mechanical Engineering",
-        "link": "https://www.vlab.co.in/broad-area-mechanical-engineering",
-        "code": "MECH"
+        "link": "https://www.vlab.co.in/broad-area-electrical-engineering",
+        "code": "EE"
     },
     "lab": "Mechatronics System Design Lab",
     "lab_display_name": "Mechatronics System Design Lab",
